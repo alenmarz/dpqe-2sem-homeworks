@@ -1,2 +1,11 @@
-# term2
-task1 + task2 + individual task (5.2.2) + 04.asm
+## Task 1:
+*1.x* -> 1_1.c, 1_2.c, 1_3.c, 1_4.c + task1_func.c (task1.h)  
+2_1.c  
+3_1.c  
+*4.x* -> 4_1.c, 4_2.c, 4_3.c  
+*5.x* -> ?  
+*6.x* -> 6_1.c, 6_2.c, 6_3.c  
+## Task 2:
+3_1_2.c  
+4_1_2.c  
+my.asm (5.2.2)
